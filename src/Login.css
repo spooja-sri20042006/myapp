@@ -1,0 +1,106 @@
+.navbar{
+  
+    display: flex;
+    justify-content: space-between; 
+     align-items: center;
+    background-color: rgb(122, 50, 205);
+size: 20px;
+    padding: 10px;
+
+   
+}
+.parent{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.parent p{margin-left: 50px;}
+.roote{
+    flex: 1;
+    text-align: left;
+}
+.roote2{
+   flex: 1;
+    text-align: center;
+}
+.roote3{
+    flex: 1;
+    text-align: right;
+}
+.roote4{
+    flex: 1;
+    text-align: right;
+}
+.homepage{
+
+    display: flex;
+    justify-content: space-between;  
+    text-align: center;
+    border-radius: 10%;
+
+
+}
+.homepage2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.homepage2 p{margin-left: 50px;}
+.pro1{
+    flex: 1;
+    text-align: left;
+
+
+}
+.pro2{
+    flex: 1;
+    text-align: center;
+}
+.pro3{
+    flex: 1;
+    text-align: right;
+}
+.pro4{
+    flex: 1;
+    text-align: right;
+}
+
+.header{
+    background-color:white;
+flex-direction: column;
+align-items: center;
+    padding: 60px;
+    border-radius:solid black;
+}   
+.text{
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.input{
+    display: flex;
+    flex-direction: column;
+    width:300px;
+    text-align: center;
+}
+.inputs
+{
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    text-align: center;
+
+    
+}
+.ui{
+    background-color:black;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
